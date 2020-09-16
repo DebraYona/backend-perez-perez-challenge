@@ -9,7 +9,7 @@ import * as rateLimit from 'express-rate-limit';
 
 const allowedOrigins = [
   /localhost:3000/,
-  /https:\/\/front-symmetrics-challenge.vercel.app/,
+  /https:\/\/perez-perez-app.vercel.app/,
   '*',
 ];
 
